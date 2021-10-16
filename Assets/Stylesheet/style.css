@@ -1,0 +1,239 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+    background-color:  #FEF2F2;
+
+}
+
+header{
+    text-align: center;
+    background-color: 
+    #1E3A8A ;
+    padding: 15px ;
+    
+
+     
+    
+}
+nav{
+  font-size: 35px;
+  padding: 20px;
+  
+  
+
+}
+
+a{
+    color: green;
+    margin: 5px;
+}
+
+
+.nav1{
+    text-decoration: none;
+
+}
+.current{
+    color: orange;
+}
+
+.sec{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+   
+}
+
+h2{
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+p{
+    font-size: 18px;
+    margin-top: 30px;
+    
+    text-align: center;
+   
+}
+hr {
+    margin-top: 10px;
+}
+
+.exercise{
+    width: 200px;
+    height: 180px;
+    background-color: #6EE7B7;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 15px solid blue;
+    outline: 5px solid black;
+    box-shadow:  0px 0px 0 20px blueviolet, 0 0 0 5px darkcyan;
+    border-radius: 10px;
+    
+    
+}
+
+.dot{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 50px;
+
+
+}
+.dot1{
+    background-color:#8A2BE2 ;
+}
+.dot2{
+    background-color:black ;
+}
+.dot3{
+    background-color:blue ;
+}
+.dot4{
+    background-color: #6EE7B7;
+}
+
+.container{
+    width: 660px;
+    border : 2px solid;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 0;
+}
+
+.box{
+    width: 200px;
+    height: 180px;
+    margin-left: 20px;
+    display: inline-block;
+    margin: 10px;
+    background-color: #A5B4FC ;
+    outline-style: 2px  solid blue;
+}
+
+.box1{
+    outline: 2px solid rgb(49, 39, 39);
+}
+
+.article1{
+    text-align: center;
+}
+
+.img1{
+    Width: 500px ;
+    height: 300px;
+    margin-top: 50px;
+}
+.div1{
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: start;
+}
+.heading{
+    font-size: 21px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 10px 10px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 15px;
+}
+.div2{
+    width: 500px;
+    height: 500px ;
+    text-align: justify;
+    text-align: center;
+    vertical-align: top;
+     
+}
+.sec2{
+
+     text-align: center;
+     font-size: 0;
+     
+}
+.article2{
+    width: 500px ;
+     display: inline-block;
+     text-align: start;
+    margin:10px ;
+
+
+}
+.image1{
+      width: 500px;
+      height: 300px;
+}  
+
+.article3{
+     width: 500px ;
+    display: inline-block;
+    text-align: start;
+    margin:10px ;
+    
+} 
+     
+.image2{
+    width: 500px;
+    height: 300px;
+    
+}
+
+
+
